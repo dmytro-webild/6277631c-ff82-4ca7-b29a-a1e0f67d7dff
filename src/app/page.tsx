@@ -73,11 +73,11 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-sexy-model-woman-shiny-lace-evening-dress-posing-sitting-chair-beige-color_285396-7787.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-sexy-model-woman-shiny-lace-evening-dress-posing-sitting-chair-beige-color_285396-7787.jpg?_wi=1",
           imageAlt: "luxury fashion models",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-beautiful-girl-posing-with-hat_23-2149067102.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-beautiful-girl-posing-with-hat_23-2149067102.jpg?_wi=1",
           imageAlt: "kids fashion photography",
         },
         {
@@ -129,7 +129,7 @@ export default function LandingPage() {
           title: "Curated Shopping",
           subtitle: "Personalized Style",
           description: "Find perfect fits for men, women, and kids with our AI-driven style suggestions.",
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-sexy-model-woman-shiny-lace-evening-dress-posing-sitting-chair-beige-color_285396-7787.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-sexy-model-woman-shiny-lace-evening-dress-posing-sitting-chair-beige-color_285396-7787.jpg?_wi=2",
           imageAlt: "fashion designer working",
         },
         {
@@ -137,7 +137,7 @@ export default function LandingPage() {
           title: "Global Reach",
           subtitle: "Sell Everywhere",
           description: "Reach millions of fashion enthusiasts globally with built-in logistics and marketing support.",
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-beautiful-girl-posing-with-hat_23-2149067102.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-beautiful-girl-posing-with-hat_23-2149067102.jpg?_wi=2",
           imageAlt: "fashion designer working",
         },
       ]}
