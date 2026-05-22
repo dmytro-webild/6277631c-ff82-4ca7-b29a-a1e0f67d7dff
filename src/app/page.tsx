@@ -60,9 +60,9 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-sexy-model-woman-shiny-lace-evening-dress-posing-sitting-chair-beige-color_285396-7787.jpg",          imageAlt: "luxury fashion models"},
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-sexy-model-woman-shiny-lace-evening-dress-posing-sitting-chair-beige-color_285396-7787.jpg?_wi=1",          imageAlt: "luxury fashion models"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-beautiful-girl-posing-with-hat_23-2149067102.jpg",          imageAlt: "kids fashion photography"},
+          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-beautiful-girl-posing-with-hat_23-2149067102.jpg?_wi=1",          imageAlt: "kids fashion photography"},
       ]}
       mediaAnimation="blur-reveal"
       rating={5}
@@ -87,9 +87,9 @@ export default function LandingPage() {
         {
           tag: "Seller",          title: "Brand Dashboard",          subtitle: "Total Control",          description: "Manage your clothing catalog, set prices, and track orders with intuitive tools.",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-teen-with-pink-hoodie_23-2148629629.jpg",          imageAlt: "fashion designer working"},
         {
-          tag: "Buyer",          title: "Curated Shopping",          subtitle: "Personalized Style",          description: "Find perfect fits for men, women, and kids with our AI-driven style suggestions.",          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-sexy-model-woman-shiny-lace-evening-dress-posing-sitting-chair-beige-color_285396-7787.jpg",          imageAlt: "fashion designer working"},
+          tag: "Buyer",          title: "Curated Shopping",          subtitle: "Personalized Style",          description: "Find perfect fits for men, women, and kids with our AI-driven style suggestions.",          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-sexy-model-woman-shiny-lace-evening-dress-posing-sitting-chair-beige-color_285396-7787.jpg?_wi=2",          imageAlt: "fashion designer working"},
         {
-          tag: "Market",          title: "Global Reach",          subtitle: "Sell Everywhere",          description: "Reach millions of fashion enthusiasts globally with built-in logistics and marketing support.",          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-beautiful-girl-posing-with-hat_23-2149067102.jpg",          imageAlt: "fashion designer working"},
+          tag: "Market",          title: "Global Reach",          subtitle: "Sell Everywhere",          description: "Reach millions of fashion enthusiasts globally with built-in logistics and marketing support.",          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-beautiful-girl-posing-with-hat_23-2149067102.jpg?_wi=2",          imageAlt: "fashion designer working"},
       ]}
       title="Why Choose MODA"
       description="Experience a seamless fashion marketplace designed for designers and shoppers."
